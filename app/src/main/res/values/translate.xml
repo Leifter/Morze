@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="translate">
+        <item>а</item>
+        <item>a</item>
+
+        <item>б</item>
+        <item>b</item>
+
+        <item>в</item>
+        <item>w</item>
+
+        <item>г</item>
+        <item>g</item>
+
+        <item>д</item>
+        <item>d</item>
+
+        <item>е</item>
+        <item>e</item>
+
+        <item>ё</item>
+        <item>e</item>
+
+        <item>ж</item>
+        <item>v</item>
+
+        <item>з</item>
+        <item>z</item>
+
+        <item>и</item>
+        <item>i</item>
+
+        <item>й</item>
+        <item>j</item>
+
+        <item>к</item>
+        <item>k</item>
+
+        <item>л</item>
+        <item>l</item>
+
+        <item>м</item>
+        <item>m</item>
+
+        <item>н</item>
+        <item>n</item>
+
+        <item>о</item>
+        <item>o</item>
+
+        <item>п</item>
+        <item>p</item>
+
+        <item>р</item>
+        <item>r</item>
+
+        <item>с</item>
+        <item>s</item>
+
+        <item>т</item>
+        <item>t</item>
+
+        <item>у</item>
+        <item>u</item>
+
+        <item>ф</item>
+        <item>f</item>
+
+        <item>х</item>
+        <item>h</item>
+
+        <item>ц</item>
+        <item>c</item>
+
+        <item>ч</item>
+        <item>zhopa4</item>
+
+        <item>ш</item>
+        <item>zhopa4</item>
+
+        <item>щ</item>
+        <item>q</item>
+
+        <item>ъ</item>
+        <item>x</item>
+
+        <item>ы</item>
+        <item>y</item>
+
+        <item>ь</item>
+        <item>x</item>
+
+        <item>э</item>
+        <item>zhopa5</item>
+
+        <item>ю</item>
+        <item>zhopa6</item>
+
+        <item>я</item>
+        <item>zhopa7</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Serega Morze Ringer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Calls example</string>
+    <string name="logtag">MorzeLog</string>
+    <string name="exitbutton">Exit</string>
+    <string name="turnbutton">Turn On/Off</string>
+</resources>
